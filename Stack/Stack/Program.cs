@@ -19,11 +19,21 @@ namespace Stack
                 switch (command = Console.ReadLine())
                 {
                     case "push":
+                        if (stack.IsFull())
+                        {
+                            Console.WriteLine("The stack is full");
+                            break;
+                        }
                         Console.WriteLine("Put the integer value for push");
                         userValue = Convert.ToInt32(Console.ReadLine());
                         stack.Push(userValue);
                         break;
                     case "pop":
+                        if (stack.IsEmpty())
+                        {
+                            Console.WriteLine("The sthack is empty");
+                            break;
+                        }
                         Console.WriteLine(stack.Pop());
                         break;
                     case "isempty":
@@ -33,6 +43,11 @@ namespace Stack
                         Console.WriteLine(stack.IsFull());
                         break;
                     case "peek":
+                        if (stack.IsEmpty())
+                        {
+                            Console.WriteLine("The sthack is empty");
+                            break;
+                        }
                         Console.WriteLine(stack.Peek());
                         break;
                     case "exit":
@@ -46,7 +61,6 @@ namespace Stack
                 }
             }
             while (command != "exit");
-            Console.ReadKey();
         }
     }
 }
