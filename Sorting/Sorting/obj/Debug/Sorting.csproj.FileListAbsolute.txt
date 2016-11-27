@@ -1,0 +1,6 @@
+D:\Projects\RudTask5\Sorting\Sorting\bin\Debug\Sorting.exe.config
+D:\Projects\RudTask5\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+D:\Projects\RudTask5\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\Projects\RudTask5\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\Projects\RudTask5\Sorting\Sorting\obj\Debug\Sorting.exe
+D:\Projects\RudTask5\Sorting\Sorting\obj\Debug\Sorting.pdb

@@ -1,0 +1,6 @@
+D:\Projects\RudTask5\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Projects\RudTask5\Stack\Stack\bin\Debug\Stack.exe
+D:\Projects\RudTask5\Stack\Stack\bin\Debug\Stack.pdb
+D:\Projects\RudTask5\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\Projects\RudTask5\Stack\Stack\obj\Debug\Stack.exe
+D:\Projects\RudTask5\Stack\Stack\obj\Debug\Stack.pdb

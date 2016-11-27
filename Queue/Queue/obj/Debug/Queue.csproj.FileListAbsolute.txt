@@ -1,0 +1,6 @@
+D:\Projects\RudTask5\Queue\Queue\bin\Debug\Queue.exe.config
+D:\Projects\RudTask5\Queue\Queue\bin\Debug\Queue.exe
+D:\Projects\RudTask5\Queue\Queue\bin\Debug\Queue.pdb
+D:\Projects\RudTask5\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+D:\Projects\RudTask5\Queue\Queue\obj\Debug\Queue.exe
+D:\Projects\RudTask5\Queue\Queue\obj\Debug\Queue.pdb
